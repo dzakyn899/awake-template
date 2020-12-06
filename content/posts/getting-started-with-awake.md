@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: JANCOK MANG
 subtitle: Get Up and Running with Awake
 category:
   - About Awake
